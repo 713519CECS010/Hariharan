@@ -1,0 +1,47 @@
+.navbar-container{
+    height: 100px;
+    background-color: aqua;    
+}
+
+.logoimg{
+    height: 70px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.navlist-container{
+    height: 70px;
+    margin: 17px;
+}
+
+.loginaction{
+    height: 70px;
+    width: 70px;
+    
+}
+
+.banner{
+    width: 100vw;
+    height: 50vh;
+}
+
+.crm_content{
+    display: flex;
+    
+    background-color: white;
+}
+
+.main_content{
+    margin: 40px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: cursive;
+    
+}
+
+.side_content{
+    margin: 90px;
+    margin-left:70px;
+    font-family: cursive;
+    line-height: 40px;
+}
